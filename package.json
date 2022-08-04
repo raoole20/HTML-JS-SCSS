@@ -1,0 +1,19 @@
+{
+  "name": "plantilla-para-proyectos-html-css-javascript",
+  "version": "1.0.0",
+  "description": "Proyecto creado para ser usado como punto de partida para otros proyectos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Espina",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.43.3"
+  }
+}
