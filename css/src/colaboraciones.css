@@ -1,0 +1,24 @@
+/* ESTILOS
+*  Desarrollador: Desarrollo
+*  Cargo: Grupo de desarrollo
+*/
+
+
+/* DECLARACION DE FUENTES */
+
+@font-face {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Segoe UI'), local('Segoe UI'), url(assets/fonts/Segoe-UI.woff) format('truetype');
+}
+
+@font-face {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: bold;
+    src: url('assets/fonts/Segoe-UI-Bold.woff') format('truetype');
+}
+
+
+/* TU CODIGO A PARTIR DE ESTA LINEA */

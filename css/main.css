@@ -1,0 +1,20 @@
+/* VENDOR CSS POSITION */
+
+@import url("src/vendor/swiper.css");
+
+/* WEBTIBUILDER */
+
+@import url("src/webtibuilder.css");
+
+/* WEBTI TEAM STYLES */
+
+@import url("src/jr-styles.css");
+@import url("src/lf-styles.css");
+
+/* CONTROLAR COMPORAMIENTOS NATIVOS SHAREPOINT */
+
+@import url("src/void-sharepoint.css");
+
+/* COLABORACIONES */
+
+@import url("src/colaboraciones.css");

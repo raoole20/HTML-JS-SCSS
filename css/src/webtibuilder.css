@@ -1,0 +1,197 @@
+/*
+* ## WEBTIBUILDER
+* Template for Construct UX/UI
+* Sharepoint Environment
+* AUTHOR: Webtiginoso SPA 
+*/
+
+
+/* LOAD FONT */
+
+@font-face {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Segoe UI'), local('Segoe UI'), url(../../assets/fonts/Segoe-UI.woff) format('truetype');
+}
+
+@font-face {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../../assets/fonts/Segoe-UI-Bold.woff') format('truetype');
+}
+
+
+/* WEBTIBUILDER RESET BODY */
+
+body {
+    margin: 0px !important;
+    padding: 0px !important;
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif !important;
+}
+
+
+/* WEBTIBUILDER -> Contenedor General */
+
+.wti-app-container {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+    margin: 0px !important;
+    padding: 0px !important;
+    height: auto;
+    min-height: 100%;
+}
+
+
+/* WEBTIBUILDER -> Página Central */
+
+.wti-page-container {
+    display: block;
+    width: 100%;
+    max-width: 1366px;
+    margin: 0 auto;
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif !important;
+}
+
+.wti-row {
+    display: block;
+    width: 100%;
+    clear: both;
+    box-sizing: border-box;
+    float: left;
+}
+
+.wti-col-1,
+.wti-col-2,
+.wti-col-3,
+.wti-col-4,
+.wti-col-5,
+.wti-col-6,
+.wti-col-7,
+.wti-col-8,
+.wti-col-9,
+.wti-col-10,
+.wti-col-11,
+.wti-col-12 {
+    display: inline-block;
+    box-sizing: border-box;
+    float: left;
+}
+
+.wti-col-1 {
+    width: 8.333%;
+}
+
+.wti-col-2 {
+    width: 16.666%;
+}
+
+.wti-col-3 {
+    width: 24.999%;
+}
+
+.wti-col-4 {
+    width: 33.332%;
+}
+
+.wti-col-5 {
+    width: 41.665%;
+}
+
+.wti-col-6 {
+    width: 49.998%;
+}
+
+.wti-col-7 {
+    width: 58.331%;
+}
+
+.wti-col-8 {
+    width: 66.664%;
+}
+
+.wti-col-9 {
+    width: 74.997%;
+}
+
+.wti-col-10 {
+    width: 83.33%;
+}
+
+.wti-col-11 {
+    width: 91.663%;
+}
+
+.wti-col-12 {
+    width: 100%;
+}
+
+.wti-a-btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 22px;
+    color: #ffffff;
+    box-shadow: #c2c2c2 0px 0px 3px 1px;
+    text-align: center;
+    margin: 0px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.wti-black {
+    background-color: #000000;
+}
+
+.wti-yellow {
+    background-color: #ffa737;
+}
+
+.wti-big-btn {
+    width: 115px;
+}
+
+.wti-small-btn {
+    width: 70px;
+}
+
+
+/* ALIGN */
+
+.wti-align-left {
+    text-align: left;
+}
+
+.wti-align-right {
+    text-align: right;
+}
+
+.wti-align-center {
+    text-align: center;
+}
+
+.wti-align-justify {
+    text-align: justify;
+}
+
+
+/* WORKSPACE */
+
+.wti-workspace {}
+
+
+/* HEADERS */
+
+
+/* LOGOS */
+
+.wti-logo-content,
+.wti-footer-logo {
+    display: block;
+}
+
+
+/* FOOTERS */
