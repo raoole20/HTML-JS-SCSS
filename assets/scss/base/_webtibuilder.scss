@@ -12,7 +12,7 @@
     font-family: 'Segoe UI';
     font-style: normal;
     font-weight: 300;
-    src: local('Segoe UI'), local('Segoe UI'), url(../../assets/fonts/Segoe-UI.woff) format('truetype');
+    src: local('Segoe UI'), local('Segoe UI'), url(assets/fonts/Segoe-UI.woff) format('truetype');
 }
 
 @font-face {
@@ -195,3 +195,8 @@ body {
 
 
 /* FOOTERS */
+
+
+.test-fuentes{
+    font-family: "Segoe UI";
+}
